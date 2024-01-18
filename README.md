@@ -1,6 +1,6 @@
 Program Name: Square the Third
 Author: Bruce Nebergall
-Last Updated: January 16, 2024
+Last Updated: January 17, 2024
 Version: 1.03
 
 Changelog:
